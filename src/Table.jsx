@@ -19,7 +19,7 @@ const Table = () => {
     return <div>
         <h1>Table</h1>
         <div>Table Number: {tableParams.number}</div>
-        <div>ID: {tableParams.place}</div>
+        <div>Place: {tableParams.place}</div>
     </div>
 }
 
